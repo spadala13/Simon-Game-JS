@@ -8,5 +8,3 @@ Hi 👋!
 * jQuery
 * HTML
 * CSS
-*
-
